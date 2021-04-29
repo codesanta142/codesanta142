@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey everyone , Kirti here 👋
 
 <!--
 **codesanta142/codesanta142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am currently a Freshman at IIIT Allahabad . I am curious a learner who is always ready to learn stuffs which all seem interesting and i am passionate about which majorly includes Front end development.I have experience working with HTML5, CSS3 , and still learning more technologies. 
